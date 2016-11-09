@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  display: inline;
+
+}
+
+.left{
+  width: 40px;
+  float: left;
+}
+
+.right {
+  width: 40px;
+  float: right;
+}
